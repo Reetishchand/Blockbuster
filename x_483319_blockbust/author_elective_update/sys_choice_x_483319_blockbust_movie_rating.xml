@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="rating" table="x_483319_blockbust_movie" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>G</label>
+            <language>en</language>
+            <name>x_483319_blockbust_movie</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-12 17:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e3d62222f51d0106ac0811df699b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-12 17:29:44</sys_updated_on>
+            <value>G</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PG</label>
+            <language>en</language>
+            <name>x_483319_blockbust_movie</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-12 17:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>123d62222f51d0106ac0811df699b642</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-12 17:29:44</sys_updated_on>
+            <value>PG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PG-13</label>
+            <language>en</language>
+            <name>x_483319_blockbust_movie</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-12 17:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>923d26622f51d0106ac0811df699b629</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-12 17:29:44</sys_updated_on>
+            <value>PG-13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>R</label>
+            <language>en</language>
+            <name>x_483319_blockbust_movie</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-12 17:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>523d26622f51d0106ac0811df699b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-12 17:29:44</sys_updated_on>
+            <value>R</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NC-17</label>
+            <language>en</language>
+            <name>x_483319_blockbust_movie</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-12 17:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>223d26622f51d0106ac0811df699b62b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-12 17:29:44</sys_updated_on>
+            <value>NC-17</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>rating</element>
+            <name>x_483319_blockbust_movie</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-12 17:29:44</sys_created_on>
+            <sys_id>d63d62222f51d0106ac0811df699b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rating</sys_name>
+            <sys_package display_value="Blockbuster" source="x_483319_blockbust">6e052aea2f11d0106ac0811df699b63c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Blockbuster">6e052aea2f11d0106ac0811df699b63c</sys_scope>
+            <sys_update_name>sys_choice_x_483319_blockbust_movie_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-12 17:29:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

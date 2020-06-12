@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 17:00:05</sys_created_on>
+        <sys_id>3b66e62e2f11d0106ac0811df699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_483319_blockbust_movie.x_483319_blockbust.movie_user</sys_name>
+        <sys_package display_value="Blockbuster" source="x_483319_blockbust">6e052aea2f11d0106ac0811df699b63c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Blockbuster">6e052aea2f11d0106ac0811df699b63c</sys_scope>
+        <sys_security_acl display_value="x_483319_blockbust_movie">fb66a62e2f11d0106ac0811df699b6fe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3b66e62e2f11d0106ac0811df699b602</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 17:00:05</sys_updated_on>
+        <sys_user_role display_value="x_483319_blockbust.movie_user" name="x_483319_blockbust.movie_user">e3662eea2f9990106ac0811df699b655</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

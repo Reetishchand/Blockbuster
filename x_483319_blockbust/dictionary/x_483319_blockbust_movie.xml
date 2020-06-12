@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Movie" max_length="40" name="x_483319_blockbust_movie" type="collection">
+        <element choice="1" label="Genre" max_length="40" name="genre" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Action" sequence="0" value="Action"/>
+                <element inactive="true" inactive_on_update="true" label="Mystry" sequence="0" value="Mystry"/>
+                <element inactive_on_update="false" label="Adventure" sequence="1" value="Adventure"/>
+                <element inactive_on_update="false" label="Drama" sequence="2" value="Drama"/>
+                <element inactive_on_update="false" label="Sci-Fi" sequence="3" value="Sci-Fi"/>
+                <element inactive_on_update="false" label="Documentry" sequence="4" value="Documentry"/>
+                <element inactive_on_update="false" label="Fantasy" sequence="5" value="Fantasy"/>
+                <element inactive_on_update="false" label="Romance" sequence="6" value="Romance"/>
+                <element inactive_on_update="false" label="Horror" sequence="7" value="Horror"/>
+                <element inactive_on_update="false" label="Thriller" sequence="8" value="Thriller"/>
+                <element inactive_on_update="false" label="Crime" sequence="9" value="Crime"/>
+                <element inactive_on_update="false" label="Animation" sequence="10" value="Animation"/>
+                <element inactive_on_update="false" label="War" sequence="11" value="War"/>
+                <element inactive_on_update="false" label="Western" sequence="12" value="Western"/>
+                <element inactive_on_update="false" label="Comedy" sequence="13" value="Comedy"/>
+            </choice>
+        </element>
+        <element label="Length" max_length="40" name="length" type="glide_duration"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Rating" max_length="40" name="rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="G" sequence="0" value="G"/>
+                <element inactive_on_update="false" label="PG" sequence="1" value="PG"/>
+                <element inactive_on_update="false" label="PG-13" sequence="2" value="PG-13"/>
+                <element inactive_on_update="false" label="R" sequence="3" value="R"/>
+                <element inactive_on_update="false" label="NC-17" sequence="4" value="NC-17"/>
+            </choice>
+        </element>
+        <element label="Year of Release" max_length="40" name="year_of_release" type="glide_date"/>
+    </element>
+</database>
